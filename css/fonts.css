@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'FagoNoBlackRegular';
+    src: url('fonts/fagono-black-webfont.eot');
+    src: url('fonts/fagono-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/fagono-black-webfont.woff') format('woff'),
+         url('fonts/fagono-black-webfont.ttf') format('truetype'),
+         url('fonts/fagono-black-webfont.svg#FagoNoBlackRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamBookRegular';
+    src: url('fonts/gotham-book-webfont.eot');
+    src: url('fonts/gotham-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/gotham-book-webfont.woff') format('woff'),
+         url('fonts/gotham-book-webfont.ttf') format('truetype'),
+         url('fonts/gotham-book-webfont.svg#GothamBookRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamRounded-Bold';
+    src: url('fonts/GothamRounded-Bold.eot');
+    src: url('fonts/GothamRounded-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/GothamRounded-Bold.woff') format('woff'),
+         url('fonts/GothamRounded-Bold.ttf') format('truetype'),
+         url('fonts/GothamRounded-Bold.svg#GothamRounded-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamRounded-Book';
+    src: url('fonts/GothamRounded-Book.eot');
+    src: url('fonts/GothamRounded-Book.eot?#iefix') format('embedded-opentype'),
+         url('fonts/GothamRounded-Book.woff') format('woff'),
+         url('fonts/GothamRounded-Book.ttf') format('truetype'),
+         url('fonts/GothamRounded-Book.svg#GothamRounded-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyriadProSemibold';
+    src: url('fonts/myriadpro-semibold-webfont.eot');
+    src: url('fonts/myriadpro-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/myriadpro-semibold-webfont.woff') format('woff'),
+         url('fonts/myriadpro-semibold-webfont.ttf') format('truetype'),
+         url('fonts/myriadpro-semibold-webfont.svg#MyriadProSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
