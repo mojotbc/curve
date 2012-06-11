@@ -135,7 +135,7 @@ h1#logo a { display: block; background: url(images/logo.png) no-repeat 0 0; heig
 #footer .nav { text-align: center; border-top: solid 1px #b5b5b5; border-bottom: solid 1px #b5b5b5; height: 33px; font-size: 12px; line-height: 33px; text-transform: uppercase;  }
 #footer .nav a { margin: 0 31px; display: inline-block; color: #787878; }
 #footer .nav a:hover { text-decoration: none; color: #a1a1a1; }
-#footer .phone { padding: 10px 0 0 50px; display: block; font-size: 18px; line-height: 20px; color: #666666; text-align: center; font-family: 'GothamRounded-Bold', arial, sans-serif; }
+#footer .phone { padding: 10px 0 0; display: block; font-size: 18px; line-height: 20px; color: #666666; text-align: center; font-family: 'GothamRounded-Bold', arial, sans-serif; }
 
 #f-bottom, #bottom-push { height: 31px; }
 #f-bottom { background: #03ae9e; }
